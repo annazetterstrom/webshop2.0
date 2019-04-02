@@ -1,0 +1,5 @@
+{
+    "tickets" : [
+        {"type" : "ticket", "price" : 5, "src" : "images/ticket", "code" : "ticket0", "description" : "This ticket takes you from London to Hogwarts"}
+    ]
+}

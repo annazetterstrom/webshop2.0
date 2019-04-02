@@ -1,0 +1,34 @@
+{ 
+    "wands": [
+        {
+            "wood": "elder", "core": "thestral tail hair", "owner": "Albus Dumbledore", "type": "wand", "src": "images/wands/dumbledore.jpg", "price": 20, "code" : "wands0", "description" : "The Elder Wand, one of the Deathly Hallows. Also known as the Deathstick and the Wand of Destiny."
+        },
+        {
+            "wood": "walnut", "core": "dragon heartstring", "owner": "Bellatrix Lestrange", "type": "wand", "src": "images/wands/lestrange.jpg", "price": 10, "code" : "wands1", "description" : "A walnut wand with a dragon heartstring. Twelve and three quarter inches tall and unyielding."
+        },
+        {
+            "wood": "ash", "core": "unicorn hair", "owner": "Cedric Diggory", "type": "wand", "src": "images/wands/diggory.jpg", "price": 10, "code" : "wands2", "description" : "A ash wand with unicorn hair. Twelve and a quarter inch tall and pleasently springy."
+        },
+        {
+            "wood": "rosewood", "core": "veela hair", "owner": "Fleur Delacour", "type": "wand", "src": "images/wands/delacour.jpg", "price": 10, "code" : "wands3", "description" : "A rosewood wand with a Veela hair. Nine and a half inches tall and inflexible."
+        },
+        {
+            "wood": "holly", "core": "phenix feather", "owner": "Harry Potter", "type": "wand", "src": "images/wands/potter.jpg", "price": 15, "code" : "wands4", "description" : "A holly wand with a phenix feather. Eleven inches tall and supple."
+        },
+        {
+            "wood": "vine", "core": "dragon heartstring", "owner": "Hermione Granger", "type": "wand", "src": "images/wands/granger.jpg", "price": 15, "code" : "wands5", "description" : "A vine wand with a dragon heartstring. Ten and three quarter inches tall."
+        },
+        {
+            "wood": "cherry", "core": "unicorn hair", "owner": "Neville Longbottom", "type": "wand", "src": "images/wands/longbottom.jpg", "price": 10, "code" : "wands6", "description" : "A cherry wand with a unicorn hair."
+        },
+        {
+            "wood": "cypress", "core": "unicorn hair", "owner": "Remus Lupin", "type": "wand", "src": "images/wands/lupin.jpg", "price": 10, "code" : "wands7", "description" : "A cypress wand with unicorn hair. Ten and a quarter inches tall and supple."
+        },
+        {
+            "wood": "willow", "core": "unicorn hair", "owner": "Ron Weasley", "type": "wand", "src": "images/wands/weasley.jpg", "price": 12, "code" : "wands8", "description" : "A willow wand with a unicorn hair. Forteen inches tall."
+        },
+        {
+            "wood": "hornbeam", "core": "dragon heartstring", "owner": "Viktor Krum", "type": "wand", "src": "images/wands/krum.jpg", "price": 13, "code" : "wands9", "description" : "A hornbeam wand with dragon heartstring. Ten and a quarter inches tall and quite rigid."
+        }
+    ]
+}
