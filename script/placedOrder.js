@@ -3,10 +3,10 @@ $(function () {
 
     function createCards() {
         let itemArray = JSON.parse(localStorage.getItem('items'));
-        $('main').html("");
         if (!itemArray) {
-            $('main').append('Your cart is empty');
+            $('main').append('Din varukorg är tom!');
         } else {
+            let total = 0;
             for (let i = 0; i < itemArray.length; i++) {
                 let card = `
                     <div class="card"> 
@@ -24,8 +24,9 @@ $(function () {
                         </div>
                     </div>`;
                 $('main').append(card);
+                total += itemArray[i].item.price * itemArray[i].num;
             }
-       
+            $('.total').text(total)
         }
     }
 });
